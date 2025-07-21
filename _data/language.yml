@@ -1,10 +1,10 @@
 # Tabs
-items_tab: 'Items'
-events_tab: 'Events'
-traits_tab: 'Traits'
-animals_tab: 'Animals'
-weapons_tab: 'Weapons'
-pawn_kinds_tab: 'Pawn Kinds'
+items_tab: 'Предмети'
+events_tab: 'Події'
+traits_tab: 'Риси'
+animals_tab: 'Тварини'
+weapons_tab: 'Зброя'
+pawn_kinds_tab: 'Пішаки'
 
 # Table headers
 mod_name_header: Mod Name
@@ -21,30 +21,30 @@ remove_cost_header: Remove Cost
 name_header: Name
 
 # Error messages
-no_commands: 'These are not the commands you are looking for.'
+no_commands: 'Це не ті команди, які ви шукаєте!'
 
 # Redirect messages
-see_traits: 'See prices in the traits section'
-see_kinds: 'See prices in the pawn kinds section'
-see_items: 'See prices in the items section'
+see_traits: 'Подивитися вартість в розділі "Риси"'
+see_kinds: 'Подивитися вартість в розділі "Пішаки"'
+see_items: 'Подивитися вартість в розділі "Предмети"'
 
 # Search texts
-search_items: 'Search for items...'
-search_traits: 'Search for traits...'
-search_pawn_kinds: 'Search for pawn kinds...'
-search_mods: 'Search for mods...'
-search_commands: 'Search for commands...'
-search_animals: 'Search for animals...'
-search_events: 'Search for events...'
-search_weapons: 'Search for weapons...'
+search_items: 'Пошукати предмет...'
+search_traits: 'Пошукати риси...'
+search_pawn_kinds: 'Пошукати пішаків...'
+search_mods: 'Пошукати моди...'
+search_commands: 'Пошукати команди...'
+search_animals: 'Пошукати тварин...'
+search_events: 'Пошукати події...'
+search_weapons: 'Пошукати зброю...'
 
 # Metadata
-usage: 'Usage: %s'
-shortcut: 'This is a shortcut for %s'
-stats: 'Stats'
-conflicts_with: 'Conflicts with'
-from: 'From %s'
-weight: 'Weight'
-limit: 'Limit'
-karma: 'Karma'
-bypasses_limit: 'This trait may exceed the trait limit'
+usage: 'Вартість: %s'
+shortcut: 'Посилання на %s'
+stats: 'Характеристики'
+conflicts_with: 'Несумісний з'
+from: 'Від %s'
+weight: 'Вага'
+limit: 'Обмеження'
+karma: 'Карма'
+bypasses_limit: 'Ця риса може перевищувати ліміт'
